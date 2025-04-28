@@ -1,6 +1,6 @@
 {
     "name": "HayBox",
-    "image": "mcr.microsoft.com/devcontainers/base:ubuntu-24.11",
+    "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
     "features": {
         "ghcr.io/rocker-org/devcontainer-features/apt-packages:1": {
             "packages": "python3-pip,python3-venv,clang-format-14"
